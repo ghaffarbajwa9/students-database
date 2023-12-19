@@ -101,3 +101,4 @@ rm students_test.csv
 rm courses_test.csv
 ls --color=auto
 pg_dump --help
+pg_dump --clean --create --inserts --username=freecodecamp students > students.sql
