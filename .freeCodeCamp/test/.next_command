@@ -85,3 +85,4 @@ cp courses.csv courses_test.csv
 psql --username=freecodecamp --dbname=students
 ./insert_data.sh
 ./insert_data.sh
+./insert_data.sh
