@@ -79,3 +79,4 @@ IFS=","
 ./insert_data.sh
 ./insert_data.sh
 ./insert_data.sh
+cp courses.csv courses_test.csv
