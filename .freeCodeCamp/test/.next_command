@@ -96,3 +96,4 @@ cp students.csv students_test.csv
 psql --username=freecodecamp --dbname=students
 ./insert_data.sh
 __vsc_prompt_cmd_original
+ls --color=auto
