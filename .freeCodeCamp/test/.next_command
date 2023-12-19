@@ -105,3 +105,9 @@ pg_dump --clean --create --inserts --username=freecodecamp students > students.s
 git init
 git commit -m "student database developed with freecodecamp course"
 git add .
+git commit -m "student database developed with freecodecamp course"
+git branch -M main
+git remote add origin https://github.com/ghaffarbajwa9/students-database.git
+git push -u origin main
+echo "# students-database" >> README.md
+git add .
