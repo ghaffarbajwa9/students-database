@@ -90,3 +90,9 @@ psql --username=freecodecamp --dbname=students
 psql --username=freecodecamp --dbname=students
 ./student_info.sh
 ./student_info.sh
+git remote add https://github.com/ghaffarbajwa9/students-database.git
+git remote -v
+git remote add https://github.com/ghaffarbajwa9/students-database.git
+git remote add origin https://github.com/ghaffarbajwa9/students-database.git
+git status
+git add .
