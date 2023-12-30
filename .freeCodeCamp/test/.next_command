@@ -82,3 +82,4 @@ psql --username=freecodecamp --dbname=students
 psql --username=freecodecamp --dbname=students
 ./student_info.sh
 ./student_info.sh
+./student_info.sh
