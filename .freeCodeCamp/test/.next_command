@@ -77,3 +77,4 @@ chmod +x student_info.sh
 psql --username=freecode -dbname=students
 psql --username=freecode --dbname=students
 psql --username=freecodecamp --dbname=students
+./student_info.sh
